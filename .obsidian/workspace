@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "2f59d99e1809f55a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e44922673c8bdef",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Тестовый файл.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4392df46ebd6f1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0b150dffab0d6eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23ecf75e650c28b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bed4d65cdfa7980b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df3cf88f124581f2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "155170f7087b8c6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d8a472b1c7448ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37f810643987ca3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Тестовый файл.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6ff9624d182f968",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Тестовый файл.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c8a5802ba47fe6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d12698b7fbecbd03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Тестовый файл.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4e44922673c8bdef",
+  "lastOpenFiles": [
+    "README.md"
+  ]
+}
