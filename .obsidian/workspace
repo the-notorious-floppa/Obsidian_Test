@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Тестовый файл.md",
+            "file": "История политических учений_Лекция.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тестовый файл.md",
+                "file": "История политических учений_Лекция.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Тестовый файл.md",
+                "file": "История политических учений_Лекция.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тестовый файл.md"
+                "file": "История политических учений_Лекция.md"
               }
             }
           }
@@ -130,6 +130,12 @@
   },
   "active": "4e44922673c8bdef",
   "lastOpenFiles": [
+    "История политических учений_Семинар.md",
+    "КПН_Тексты.md",
+    "КПН_Семинары.md",
+    "История политических учений_Лекция.md",
+    "conflict-files-obsidian-git.md",
+    "Тестовый файл.md",
     "README.md"
   ]
 }
