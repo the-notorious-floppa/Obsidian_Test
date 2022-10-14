@@ -1,18 +1,10 @@
 {
-  "obsidian-git:push2": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
   "obsidian-git:pull": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "T"
+      "key": "R"
     }
   ],
   "obsidian-git:commit": [
@@ -21,6 +13,22 @@
         "Mod"
       ],
       "key": "Q"
+    }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
     }
   ]
 }
