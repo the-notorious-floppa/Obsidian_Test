@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "КПН_Семинары.md",
+            "file": "КПН_Тексты.md",
             "mode": "source",
             "source": false
           }
@@ -77,14 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "КПН_Семинары.md",
+                "file": "КПН_Тексты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "КПН_Семинары.md",
+                "file": "КПН_Тексты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "КПН_Семинары.md"
+                "file": "КПН_Тексты.md"
               }
             }
           }
@@ -125,17 +125,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "4e44922673c8bdef",
   "lastOpenFiles": [
-    "История политических учений_Семинар.md",
-    "История политических учений_Лекция.md",
-    "КПН_Тексты.md",
     "КПН_Семинары.md",
+    "История политических учений_Лекция.md",
+    "История политических учений_Семинар.md",
+    "README.md",
+    "КПН_Тексты.md",
     "conflict-files-obsidian-git.md",
-    "Тестовый файл.md",
-    "README.md"
+    "Тестовый файл.md"
   ]
 }

@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "2f59d99e1809f55a",
+    "type": "split",
+    "children": [
+      {
+        "id": "16445ec6eafdd862",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e44922673c8bdef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df5b5e4896c9705a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23dce5cdbfb1db9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27f26b013f342e2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36c3a02d5d6ad36d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0cfec49a4a6442b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Political Science/КПН_Семинары.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4392df46ebd6f1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0b150dffab0d6eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23ecf75e650c28b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bed4d65cdfa7980b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df3cf88f124581f2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "155170f7087b8c6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d8a472b1c7448ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37f810643987ca3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f6ff9624d182f968",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c8a5802ba47fe6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d12698b7fbecbd03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "23ecf75e650c28b4",
+  "lastOpenFiles": [
+    "Dailies/Без названия.md",
+    "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
+    "Без названия.md",
+    "Study/Political Science/История политических учений_Лекция.md",
+    "Study/Political Science/КПН_Тексты.md",
+    "Study/Political Science/История политических учений_Семинар.md",
+    "Study/Political Science/КПН_Семинары.md",
+    "README.md",
+    "conflict-files-obsidian-git.md",
+    "Тестовый файл.md"
+  ]
+}
