@@ -4,22 +4,6 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "R"
-    }
-  ],
-  "obsidian-git:commit": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Q"
-    }
-  ],
-  "markdown:toggle-preview": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
       "key": "T"
     }
   ],
@@ -28,7 +12,16 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "E"
+      "key": "R"
+    }
+  ],
+  "workspace:new-tab": [],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
     }
   ]
 }
