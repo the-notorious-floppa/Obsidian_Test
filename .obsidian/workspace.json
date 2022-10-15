@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "История политических учений_Лекция.md",
-                "mode": "source",
+                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "История политических учений_Лекция.md",
+                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "История политических учений_Лекция.md",
+                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "История политических учений_Лекция.md"
+                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md"
               }
             }
           }
@@ -141,12 +141,15 @@
   },
   "active": "4a2281a1c9675eea",
   "lastOpenFiles": [
-    "КПН_Тексты.md",
-    "КПН_Семинары.md",
-    "История политических учений_Семинар.md",
-    "История политических учений_Лекция.md",
-    "conflict-files-obsidian-git.md",
     "Obsidian_Test/README.md",
+    "Study/Political Science/История политических учений_Лекция.md",
+    "Study/Political Science/История политических учений_Семинар.md",
+    "Study/Political Science/КПН_Семинары.md",
+    "conflict-files-obsidian-git.md",
+    "КПН_Семинары.md",
+    "История политических учений_Лекция.md",
+    "КПН_Тексты.md",
+    "История политических учений_Семинар.md",
     "README.md"
   ]
 }

@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Obsidian_Test/README.md",
+=======
+            "file": "КПН_Тексты.md",
+>>>>>>> origin/main
             "mode": "source",
             "source": false
           }
@@ -77,14 +81,18 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Obsidian_Test/README.md",
+=======
+                "file": "КПН_Тексты.md",
+>>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -94,7 +102,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Obsidian_Test/README.md",
+=======
+                "file": "КПН_Тексты.md",
+>>>>>>> origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Obsidian_Test/README.md"
+=======
+                "file": "КПН_Тексты.md"
+>>>>>>> origin/main
               }
             }
           }
@@ -125,16 +141,25 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "4a2281a1c9675eea",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "КПН_Тексты.md",
     "КПН_Семинары.md",
     "История политических учений_Семинар.md",
     "История политических учений_Лекция.md",
     "README.md",
     "conflict-files-obsidian-git.md"
+=======
+    "КПН_Семинары.md",
+    "История политических учений_Лекция.md",
+    "История политических учений_Семинар.md",
+    "README.md",
+    "КПН_Тексты.md",
+    "conflict-files-obsidian-git.md",
+    "Тестовый файл.md"
+>>>>>>> origin/main
   ]
 }
