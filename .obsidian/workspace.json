@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "155170f7087b8c6e",
@@ -134,12 +135,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "27f26b013f342e2a",
+  "active": "23ecf75e650c28b4",
   "lastOpenFiles": [
     "Dailies/Без названия.md",
     "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
