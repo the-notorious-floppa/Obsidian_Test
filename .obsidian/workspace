@@ -10,7 +10,11 @@
           "type": "markdown",
           "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
             "file": "Obsidian_Test/README.md",
+=======
+            "file": "КПН_Тексты.md",
+>>>>>>> origin/main
 =======
             "file": "КПН_Тексты.md",
 >>>>>>> origin/main
@@ -82,7 +86,11 @@
               "type": "backlink",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Obsidian_Test/README.md",
+=======
+                "file": "КПН_Тексты.md",
+>>>>>>> origin/main
 =======
                 "file": "КПН_Тексты.md",
 >>>>>>> origin/main
@@ -103,7 +111,11 @@
               "type": "outgoing-link",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Obsidian_Test/README.md",
+=======
+                "file": "КПН_Тексты.md",
+>>>>>>> origin/main
 =======
                 "file": "КПН_Тексты.md",
 >>>>>>> origin/main
@@ -130,7 +142,11 @@
               "type": "outline",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Obsidian_Test/README.md"
+=======
+                "file": "КПН_Тексты.md"
+>>>>>>> origin/main
 =======
                 "file": "КПН_Тексты.md"
 >>>>>>> origin/main
@@ -146,6 +162,7 @@
   "active": "4a2281a1c9675eea",
   "lastOpenFiles": [
 <<<<<<< HEAD
+<<<<<<< HEAD
     "КПН_Тексты.md",
     "КПН_Семинары.md",
     "История политических учений_Семинар.md",
@@ -154,12 +171,18 @@
     "conflict-files-obsidian-git.md"
 =======
     "КПН_Семинары.md",
+=======
+    "КПН_Семинары.md",
+>>>>>>> origin/main
     "История политических учений_Лекция.md",
     "История политических учений_Семинар.md",
     "README.md",
     "КПН_Тексты.md",
     "conflict-files-obsidian-git.md",
     "Тестовый файл.md"
+<<<<<<< HEAD
+>>>>>>> origin/main
+=======
 >>>>>>> origin/main
   ]
 }

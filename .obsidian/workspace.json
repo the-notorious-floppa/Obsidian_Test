@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c608639bac4340e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d72aced30956168",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -139,17 +156,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4a2281a1c9675eea",
+  "active": "671f1328f2207268",
   "lastOpenFiles": [
+    "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
+    "conflict-files-obsidian-git.md",
     "Obsidian_Test/README.md",
     "Study/Political Science/История политических учений_Лекция.md",
     "Study/Political Science/История политических учений_Семинар.md",
     "Study/Political Science/КПН_Семинары.md",
-    "conflict-files-obsidian-git.md",
     "КПН_Семинары.md",
     "История политических учений_Лекция.md",
     "КПН_Тексты.md",
-    "История политических учений_Семинар.md",
-    "README.md"
+    "История политических учений_Семинар.md"
   ]
 }
