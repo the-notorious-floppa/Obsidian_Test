@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a2281a1c9675eea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c608639bac4340e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0d72aced30956168",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md"
+              }
             }
           }
         ]
@@ -156,10 +139,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "671f1328f2207268",
+  "active": "0d72aced30956168",
   "lastOpenFiles": [
-    "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
     "conflict-files-obsidian-git.md",
+    "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
     "Obsidian_Test/README.md",
     "Study/Political Science/История политических учений_Лекция.md",
     "Study/Political Science/История политических учений_Семинар.md",
