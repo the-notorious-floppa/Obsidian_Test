@@ -1,12 +1,4 @@
 {
-  "obsidian-git:commit": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
   "obsidian-git:push2": [
     {
       "modifiers": [
@@ -28,7 +20,16 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "C"
+      "key": "Z"
     }
-  ]
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "obsidian-git:commit-specified-message": []
 }
