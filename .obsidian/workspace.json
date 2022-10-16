@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "27f26b013f342e2a",
+            "id": "6d6afc9ae06d90dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
+                "file": "Study/КПН_Тексты/Голосов_Сравнительная политология (глава 11).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "155170f7087b8c6e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
+                "file": "Study/КПН_Тексты/Голосов_Сравнительная политология (глава 11).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
+                "file": "Study/КПН_Тексты/Голосов_Сравнительная политология (глава 11).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md"
+                "file": "Study/КПН_Тексты/Голосов_Сравнительная политология (глава 11).md"
               }
             }
           }
@@ -140,17 +139,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "27f26b013f342e2a",
+  "active": "6d6afc9ae06d90dc",
   "lastOpenFiles": [
     "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
-    "Dailies/Без названия.md",
-    "Без названия.md",
-    "Study/Political Science/История политических учений_Лекция.md",
-    "Study/Political Science/КПН_Тексты.md",
-    "Study/Political Science/История политических учений_Семинар.md",
-    "Study/Political Science/КПН_Семинары.md",
-    "README.md",
-    "conflict-files-obsidian-git.md",
-    "Тестовый файл.md"
+    "Study/КПН_Тексты/Голосов_Сравнительная политология (глава 11).md",
+    "Study/КПН_Тексты/Голосов_Сравнительная политология (глава 11)/Без названия.md",
+    "Study/ИПУ_Лекции/ИПУ_Лекции.md",
+    "Study/ИПУ_Лекции/КПН_Тексты.md",
+    "Study/ИПУ_Лекции/КПН_Семинары.md",
+    "Study/ИПУ_Лекции/ИПУ_Тексты.md",
+    "Study/ИПУ_Лекции/ИПУ_Семинары.md",
+    "Study/КПН_Тексты.md",
+    "2022-10-16.md"
   ]
 }

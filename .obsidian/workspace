@@ -1,15 +1,23 @@
 {
   "main": {
-    "id": "2f59d99e1809f55a",
+    "id": "5a0bb61cc43601cf",
     "type": "split",
     "children": [
       {
-        "id": "4e44922673c8bdef",
+        "id": "4a2281a1c9675eea",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
+<<<<<<< HEAD
+            "file": "Obsidian_Test/README.md",
+=======
             "file": "КПН_Тексты.md",
+>>>>>>> origin/main
+=======
+            "file": "КПН_Тексты.md",
+>>>>>>> origin/main
             "mode": "source",
             "source": false
           }
@@ -19,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c4392df46ebd6f1b",
+    "id": "adce31ee9c44ceae",
     "type": "split",
     "children": [
       {
-        "id": "a0b150dffab0d6eb",
+        "id": "82d4c1bb18629679",
         "type": "tabs",
         "children": [
           {
-            "id": "23ecf75e650c28b4",
+            "id": "671f1328f2207268",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +43,7 @@
             }
           },
           {
-            "id": "bed4d65cdfa7980b",
+            "id": "0ed7fa66f960aa41",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +58,7 @@
             }
           },
           {
-            "id": "df3cf88f124581f2",
+            "id": "97b7ad87aa2d1d08",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,20 +72,28 @@
     "width": 300
   },
   "right": {
-    "id": "155170f7087b8c6e",
+    "id": "55b6361c2e86ec32",
     "type": "split",
     "children": [
       {
-        "id": "9d8a472b1c7448ca",
+        "id": "def8a4bb43382c2c",
         "type": "tabs",
         "children": [
           {
-            "id": "37f810643987ca3b",
+            "id": "5c59a3a36d4c9231",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+<<<<<<< HEAD
+                "file": "Obsidian_Test/README.md",
+=======
                 "file": "КПН_Тексты.md",
+>>>>>>> origin/main
+=======
+                "file": "КПН_Тексты.md",
+>>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,19 +105,27 @@
             }
           },
           {
-            "id": "f6ff9624d182f968",
+            "id": "b63dd0f570f811d2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+<<<<<<< HEAD
+                "file": "Obsidian_Test/README.md",
+=======
                 "file": "КПН_Тексты.md",
+>>>>>>> origin/main
+=======
+                "file": "КПН_Тексты.md",
+>>>>>>> origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0c8a5802ba47fe6a",
+            "id": "c6fe47f7b0530f4a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,12 +136,20 @@
             }
           },
           {
-            "id": "d12698b7fbecbd03",
+            "id": "48df6dc323e9cb81",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
+<<<<<<< HEAD
+                "file": "Obsidian_Test/README.md"
+=======
                 "file": "КПН_Тексты.md"
+>>>>>>> origin/main
+=======
+                "file": "КПН_Тексты.md"
+>>>>>>> origin/main
               }
             }
           }
@@ -127,14 +159,30 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4e44922673c8bdef",
+  "active": "4a2281a1c9675eea",
   "lastOpenFiles": [
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "КПН_Тексты.md",
     "КПН_Семинары.md",
+    "История политических учений_Семинар.md",
+    "История политических учений_Лекция.md",
+    "README.md",
+    "conflict-files-obsidian-git.md"
+=======
+    "КПН_Семинары.md",
+=======
+    "КПН_Семинары.md",
+>>>>>>> origin/main
     "История политических учений_Лекция.md",
     "История политических учений_Семинар.md",
     "README.md",
     "КПН_Тексты.md",
     "conflict-files-obsidian-git.md",
     "Тестовый файл.md"
+<<<<<<< HEAD
+>>>>>>> origin/main
+=======
+>>>>>>> origin/main
   ]
 }
