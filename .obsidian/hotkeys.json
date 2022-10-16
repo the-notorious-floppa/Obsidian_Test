@@ -1,13 +1,5 @@
 {
-  "obsidian-git:pull": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
-  "obsidian-git:push2": [
+  "obsidian-git:commit": [
     {
       "modifiers": [
         "Mod"
@@ -15,13 +7,28 @@
       "key": "R"
     }
   ],
-  "workspace:new-tab": [],
-  "obsidian-git:commit": [
+  "obsidian-git:push2": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "Q"
+    }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "C"
     }
   ]
 }
