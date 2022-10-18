@@ -8,47 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dbb03f14358eafbf",
+            "id": "b1da7ff89110098a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e9775a44c44ec39f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a157a4008e3c2819",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8bf7570e4cb2fda2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2baaa4eda9f22b54",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Study/ИПУ_Лекции/Макиавелли.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Study/ИПУ_Лекции/Макиавелли.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Study/ИПУ_Лекции/Макиавелли.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Study/ИПУ_Лекции/Макиавелли.md"
+              }
             }
           }
         ]
@@ -164,17 +139,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2baaa4eda9f22b54",
+  "active": "b1da7ff89110098a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Study/КПН_Лекции/Политические системы и политические режимы.md",
+    "Study/ИПУ_Лекции/Макиавелли.md",
+    "Study/ИПУ_Тексты/Платон_Государство.md",
     "Study/КПН_Тексты/Голосов_Сравнительная политология (глава 11).md",
+    "conflict-files-obsidian-git.md",
     "Study/Political Science/КПН_Тексты.md",
     "Study/Political Science/КПН_Семинары.md",
     "Dailies/Articles/Грановеттер - Сила слабых социальных связей.md",
     "Study/Political Science/История политических учений_Лекция.md",
-    "Obsidian_Test/README.md",
-    "Study/Political Science/История политических учений_Семинар.md",
-    "КПН_Семинары.md",
-    "История политических учений_Лекция.md"
+    "Obsidian_Test/README.md"
   ]
 }
