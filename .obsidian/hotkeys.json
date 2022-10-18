@@ -15,14 +15,6 @@
       "key": "E"
     }
   ],
-  "markdown:toggle-preview": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Z"
-    }
-  ],
   "obsidian-git:commit": [
     {
       "modifiers": [
@@ -31,5 +23,21 @@
       "key": "R"
     }
   ],
-  "obsidian-git:commit-specified-message": []
+  "obsidian-git:commit-specified-message": [],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Z"
+    }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "X"
+    }
+  ]
 }
