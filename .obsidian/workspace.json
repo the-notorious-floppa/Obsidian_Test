@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/КПН_Тексты/Хелд_Модели демократии.md",
+                "file": "Study/ИПУ_Тексты/Платон_Государство.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/КПН_Тексты/Хелд_Модели демократии.md",
+                "file": "Study/ИПУ_Тексты/Платон_Государство.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/КПН_Тексты/Хелд_Модели демократии.md",
+                "file": "Study/ИПУ_Тексты/Платон_Государство.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/КПН_Тексты/Хелд_Модели демократии.md"
+                "file": "Study/ИПУ_Тексты/Платон_Государство.md"
               }
             }
           }
@@ -141,8 +141,8 @@
   },
   "active": "04f75855984e3e4e",
   "lastOpenFiles": [
-    "Study/КПН_Тексты/Голосов_Сравнительная политология (глава 11).md",
     "Study/КПН_Тексты/Хелд_Модели демократии.md",
+    "Study/КПН_Тексты/Голосов_Сравнительная политология (глава 11).md",
     "Study/КПН_Тексты/Арендт_Истоки тоталитаризма.md",
     "conflict-files-obsidian-git.md",
     "Study/ИПУ_Лекции/Макиавелли.md",
