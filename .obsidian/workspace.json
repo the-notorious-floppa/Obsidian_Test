@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "16445ec6eafdd862",
+        "id": "0da47b585d114ecb",
         "type": "tabs",
         "children": [
           {
-            "id": "04f75855984e3e4e",
+            "id": "f9e788320c2b9998",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,55 +20,31 @@
             }
           },
           {
-            "id": "0398116a29cb821e",
+            "id": "010b31e7c0dc48bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/КПН_Тексты/Холл.md",
+                "file": "Deliberative and Participatory Democracy.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e2c02964f72e23bb",
+            "id": "2dbecfdb8ef483eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/КПН_Тексты/Шугарт.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6eff85d1755427ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/КПН_Тексты/Арендт.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cc8c5adecc40434",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/КПН_Тексты/Хелд_Модели демократии.md",
+                "file": "Deliberative and Participatory Democracy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/КПН_Тексты/Хелд_Модели демократии.md",
+                "file": "Deliberative and Participatory Democracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/КПН_Тексты/Хелд_Модели демократии.md",
+                "file": "Deliberative and Participatory Democracy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/КПН_Тексты/Хелд_Модели демократии.md"
+                "file": "Deliberative and Participatory Democracy.md"
               }
             }
           }
@@ -185,20 +161,16 @@
     "direction": "horizontal",
     "width": 200
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "7cc8c5adecc40434",
+  "active": "2dbecfdb8ef483eb",
   "lastOpenFiles": [
+    "Study/КПН_Тексты/Хелд_Модели демократии.md",
+    "Study/КПН_Тексты/Арендт.md",
     "Study/КПН_Тексты/Арендт_Истоки тоталитаризма.md",
     "Study/КПН_Тексты/Бернхольц.md",
-    "Study/КПН_Тексты/Арендт.md",
     "Study/КПН_Тексты/Шугарт.md",
     "Study/КПН_Тексты/Холл.md",
-    "Study/КПН_Тексты/Хелд_Модели демократии.md",
     "Study/КПН_Тексты/Голосов_Сравнительная политология (глава 11).md",
     "conflict-files-obsidian-git.md",
-    "Study/ИПУ_Лекции/Макиавелли.md",
-    "Study/КПН_Лекции/Политические системы и политические режимы.md"
+    "Study/ИПУ_Лекции/Макиавелли.md"
   ]
 }
