@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6929732ea9dbe732",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/КПН_Тексты/Хелд_Модели демократии.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "155170f7087b8c6e",
@@ -138,17 +150,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "23ecf75e650c28b4",
+  "active": "6929732ea9dbe732",
   "lastOpenFiles": [
     "Study/КПН_Тексты/Партиципаторная и делиберативная демократии.md",
     "Study/КПН_Тексты/Хелд_Модели демократии.md",
-    "Партиципаторная и делиберативная демократии.md",
+    "Study/КПН_Тексты/Холл.md",
+    "Study/КПН_Тексты/Шугарт.md",
     "conflict-files-obsidian-git.md",
+    "Партиципаторная и делиберативная демократии.md",
     "Deliberative and Participatory Democracy.md",
     "Study/КПН_Тексты/Арендт.md",
     "Study/КПН_Тексты/Арендт_Истоки тоталитаризма.md",
-    "Study/КПН_Тексты/Бернхольц.md",
-    "Study/КПН_Тексты/Шугарт.md",
-    "Study/КПН_Тексты/Холл.md"
+    "Study/КПН_Тексты/Бернхольц.md"
   ]
 }
