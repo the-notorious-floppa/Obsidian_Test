@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "16445ec6eafdd862",
+        "id": "fbf017cd7ce0d4a3",
         "type": "tabs",
         "children": [
           {
-            "id": "04f75855984e3e4e",
+            "id": "e981a6366c55ed9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/ИПУ_Тексты/Платон_Государство.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "250cf2b072c70c63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/КПН_Тексты/Бернхольц.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4a4e1213dff3d2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/КПН_Тексты/Партиципаторная и делиберативная демократии.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b69ba87fc917b727",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/КПН_Тексты/Партиципаторная и делиберативная демократии.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3871233809ae3c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/КПН_Тексты/Партиципаторная и делиберативная демократии.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f93746c9025a0b9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/КПН_Тексты/Партиципаторная и делиберативная демократии.md",
+                "file": "Study/КПН_Тексты/Хелд_Модели демократии.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/КПН_Тексты/Партиципаторная и делиберативная демократии.md",
+                "file": "Study/КПН_Тексты/Хелд_Модели демократии.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/КПН_Тексты/Партиципаторная и делиберативная демократии.md",
+                "file": "Study/КПН_Тексты/Хелд_Модели демократии.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/КПН_Тексты/Партиципаторная и делиберативная демократии.md"
+                "file": "Study/КПН_Тексты/Хелд_Модели демократии.md"
               }
             }
           }
@@ -199,16 +138,16 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "f93746c9025a0b9b",
+  "active": "23ecf75e650c28b4",
   "lastOpenFiles": [
-    "Study/ИПУ_Лекции/Макиавелли.md",
-    "Study/ИПУ_Тексты/Платон_Государство.md",
-    "Study/КПН_Лекции/Политические системы и политические режимы.md",
-    "conflict-files-obsidian-git.md",
-    "Pasted image 20221028000044.png",
     "Study/КПН_Тексты/Партиципаторная и делиберативная демократии.md",
-    "Study/КПН_Тексты/Бернхольц.md",
+    "Study/КПН_Тексты/Хелд_Модели демократии.md",
+    "Партиципаторная и делиберативная демократии.md",
+    "conflict-files-obsidian-git.md",
+    "Deliberative and Participatory Democracy.md",
     "Study/КПН_Тексты/Арендт.md",
+    "Study/КПН_Тексты/Арендт_Истоки тоталитаризма.md",
+    "Study/КПН_Тексты/Бернхольц.md",
     "Study/КПН_Тексты/Шугарт.md",
     "Study/КПН_Тексты/Холл.md"
   ]
