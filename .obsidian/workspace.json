@@ -23,12 +23,8 @@
             "id": "6929732ea9dbe732",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/КПН_Тексты/Хелд_Модели демократии.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/КПН_Тексты/Хелд_Модели демократии.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/КПН_Тексты/Хелд_Модели демократии.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Study/КПН_Тексты/Хелд_Модели демократии.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -152,8 +144,8 @@
   },
   "active": "6929732ea9dbe732",
   "lastOpenFiles": [
-    "Study/КПН_Тексты/Партиципаторная и делиберативная демократии.md",
     "Study/КПН_Тексты/Хелд_Модели демократии.md",
+    "Study/КПН_Тексты/Партиципаторная и делиберативная демократии.md",
     "Study/КПН_Тексты/Холл.md",
     "Study/КПН_Тексты/Шугарт.md",
     "conflict-files-obsidian-git.md",
