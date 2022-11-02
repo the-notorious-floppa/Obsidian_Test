@@ -26,9 +26,33 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "6add7d308d4ca773",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/КПН_Тексты/Levitsky_The rise of Competitive authoritarianism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0b2af1c5cbf75e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дневник/2 ноября 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Дневник/2 ноября 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Дневник/2 ноября 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Дневник/2 ноября 2022.md"
+              }
             }
           }
         ],
@@ -142,17 +170,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "6929732ea9dbe732",
+  "active": "e0b2af1c5cbf75e8",
   "lastOpenFiles": [
     "Study/КПН_Тексты/Хелд_Модели демократии.md",
-    "Study/КПН_Тексты/Партиципаторная и делиберативная демократии.md",
+    "Study/КПН_Тексты/Levitsky_Durable Authoritarianism.md",
     "Study/КПН_Тексты/Холл.md",
-    "Study/КПН_Тексты/Шугарт.md",
+    "Study/КПН_Тексты/Бернхольц.md",
     "conflict-files-obsidian-git.md",
+    "Study/КПН_Тексты/Партиципаторная и делиберативная демократии.md",
+    "Study/КПН_Тексты/Шугарт.md",
     "Партиципаторная и делиберативная демократии.md",
     "Deliberative and Participatory Democracy.md",
-    "Study/КПН_Тексты/Арендт.md",
-    "Study/КПН_Тексты/Арендт_Истоки тоталитаризма.md",
-    "Study/КПН_Тексты/Бернхольц.md"
+    "Study/КПН_Тексты/Арендт.md"
   ]
 }
